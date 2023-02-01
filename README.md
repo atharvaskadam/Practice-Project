@@ -10,3 +10,7 @@
 ## Commit using command line
 
 - Add the untarcked file to tracking (if any) usinf command `git add filename`
+- Now your file is in staging
+- Now you can commit your file using command `git commit -m "Message"`
+- Now you could have also done the above 2 steps in single command using `git commit -am "Message"` but avoid this to avoid unnecessary checkins
+- Now you have to push those commit as well using command `git push`
