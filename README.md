@@ -1,5 +1,10 @@
 # Go Projects
 
+## Some Point to Keep In Mind
+
+- Always check the branch you are working on
+- Also always make sure that your branch is up to date with your parent branch
+
 ## Steps to Commit/Checkin the Code
 
 - First add the files to staging that you want to commit
