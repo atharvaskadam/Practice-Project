@@ -27,3 +27,7 @@
 3. Take pull using "git pull" command also make sure you take latest pull of the parent branch before merging it to child branch
 4. update the branch from main/parent using "git merge parent-branch-name" command
 5. Continue The Modifications Or Updates You Do After It's Done Then Commit All The Changes With Proper Commit Message Take Pull And Then Push The Changes And At Last Create PR
+
+## Information About Go
+
+ 1. Go Is Not OOP Nor POP Language
