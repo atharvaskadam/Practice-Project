@@ -1,5 +1,12 @@
 # Go Projects
 
+- [Go Projects](#go-projects)
+  - [Some Point to Keep In Mind](#some-point-to-keep-in-mind)
+  - [Steps to Commit/Checkin the Code](#steps-to-commitcheckin-the-code)
+  - [Commit using command line](#commit-using-command-line)
+  - [Steps](#steps)
+  - [Information About Go](#information-about-go)
+
 ## Some Point to Keep In Mind
 
 - Always check the branch you are working on
@@ -30,10 +37,6 @@
 
 ## Information About Go
 
- 1. Go Is Not OOP Nor POP Language
-
- 2. Go (also called Golan or Go Language)is an open source programming language used for general purpose
- 
- 3. It is Fast Programing Language
-
- 3. It is Fast Programing Language
+1. Go Is Not OOP Nor POP Language
+2. Go (also called GoLang or Go Language) is an open source programming language used for general purpose
+3. It is a relatively Fast Programing Language
