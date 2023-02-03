@@ -8,13 +8,13 @@ import (
 )
 
 func main() {
-	textFile, err := os.Open("D:/A1.txt")
+	textFile, err := os.Open("./sample/A1.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer textFile.Close()
 	// Create the zip file
-	zipFile, err := os.Create("D:/text_file.zip")
+	zipFile, err := os.Create("./text_file.zip")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -31,9 +31,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close the zip writer
-	err = zipWriter.Close()
-	if err != nil {
-		log.Fatal(err)
-	}
+
 }
