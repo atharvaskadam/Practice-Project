@@ -65,5 +65,5 @@ Go is a statically typed language, and the compiler works hard to ensure that th
 7. Concurrency Support:
 One area where the language shines is its first-class support for Concurrency in the language itself. If you have programming concurrency in other languages, you understand that it is quite complex to do so. Go Concurrency primitives via go routines and channels makes concurrent programming easy. Its ability to take advantage of multi-core processor architectures and efficient memory is one of the reasons while Go code is today running some of the most heavily used applications that can scale.
 
-8.Testing Support:
+8. Testing Support:
 Go Language brings Unit Testing right into the language itself. It provides a simple mechanism to write your unit tests in parallel with your code. The tooling also provides support to understand code coverage by your tests, benchmarking tests and writing example code that is used in generating your code documentation.
