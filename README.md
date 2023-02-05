@@ -7,6 +7,8 @@
   - [Steps](#steps)
   - [Information About Go](#information-about-go)
   - [Why Is Go A Top Programming Language](#why-is-go-a-top-programming-language)
+  - [Prerequisites To Learn Golang](#prerequisites-to-learn-golang)
+>>>>>>> main
 
 ## Some Point to Keep In Mind
 
@@ -67,3 +69,9 @@ One area where the language shines is its first-class support for Concurrency in
 
 8. Testing Support:
 Go Language brings Unit Testing right into the language itself. It provides a simple mechanism to write your unit tests in parallel with your code. The tooling also provides support to understand code coverage by your tests, benchmarking tests and writing example code that is used in generating your code documentation.
+
+## Prerequisites To Learn Golang
+
+1. Some programming experience. The code here is pretty simple, but it helps to know something about functions.
+2. A tool to edit your code. Any text editor you have will work fine. Most text editors have good support for Go.    The most popular are VSCode (free), GoLand (paid), and Vim (free).
+3. A command terminal. Go works well using any terminal on Linux and Mac, and on PowerShell or cmd in Windows.
