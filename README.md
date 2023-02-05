@@ -8,7 +8,6 @@
   - [Information About Go](#information-about-go)
   - [Why Is Go A Top Programming Language](#why-is-go-a-top-programming-language)
   - [Prerequisites To Learn Golang](#prerequisites-to-learn-golang)
->>>>>>> main
 
 ## Some Point to Keep In Mind
 
