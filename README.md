@@ -9,7 +9,6 @@
   - [Why Is Go A Top Programming Language](#why-is-go-a-top-programming-language)
   - [Prerequisites To Learn Golang](#prerequisites-to-learn-golang)
 
-
 ## Some Point to Keep In Mind
 
 - Always check the branch you are working on
