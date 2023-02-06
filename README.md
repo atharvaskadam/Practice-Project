@@ -8,6 +8,7 @@
   - [Information About Go](#information-about-go)
   - [Why Is Go A Top Programming Language](#why-is-go-a-top-programming-language)
   - [Prerequisites To Learn Golang](#prerequisites-to-learn-golang)
+  - [Why Golang Is Faster Than Others](#why-golang-is-faster-than-others)
 
 ## Some Point to Keep In Mind
 
@@ -74,3 +75,20 @@ Go Language brings Unit Testing right into the language itself. It provides a si
 1. Some programming experience. The code here is pretty simple, but it helps to know something about functions.
 2. A tool to edit your code. Any text editor you have will work fine. Most text editors have good support for Go.    The most popular are VSCode (free), GoLand (paid), and Vim (free).
 3. A command terminal. Go works well using any terminal on Linux and Mac, and on PowerShell or cmd in Windows.
+
+## Why Golang Is Faster Than Others
+
+The main reason for Golang’s popularity is its speed. Many programmers have compared Golang to its competitors and found Golang to have the fastest compile time. Here’s a comparison of Golang with popular programming languages.
+
+1. Golang vs. Java
+Golang is much faster than Java in terms of performance and speed. Since Java is compiled on a virtual machine, its code must be changed to bytecode before passing through the compiler. Even though this step makes it a platform-independent language, it significantly slows down the compilation process. Golang doesn’t rely on a virtual machine for code compilation and is directly compiled from the binary file. That’s why it is much faster than Java when it comes to application development. Golang’s automatic garbage collection also contributes to its speed and makes it much faster than Java.
+
+2. Golang vs. Node.js
+Golang processing is faster and more lightweight than Node.js. Golang can also handle subroutines concurrently (i.e., it can execute threads in parallel). This is different from Node.js, which is single-threaded. This feature also improves the scalability of the final application. Golang’s goroutines are faster and more efficient compared to the single-thread architecture of Node.js. They also allow engineers to handle issues such as network timeout and database failures, which makes Golang a perfect candidate for high-performance system design.
+
+3. Golang vs. C++
+C++ modules often take a lot of time to parse and compile headers. Sometimes they also need to parse and compile symbol tables, which further slows down the application compilation. In contrast, Golang only uses packages that are necessary to run the program. Golang has a feature that reminds the developer to remove unused packages from the final build. It throws a compilation error whenever it detects an unused variable or import, trading short-term convenience for performance and efficiency.
+
+When Should You Use Golang?
+Golang is a very versatile and promising programming language. Many companies use it to optimize their product performance and improve their efficiency. Furthermore, due to its goroutines that handle concurrency issues, it is the perfect language for preventing scalability bottlenecks.
+Golang allows developers to create performant and lightweight applications that are optimized for performance. Golang applications are easily maintainable and vastly outperform Node.js/Java-based applications in terms of performance. For microservices and enterprise cloud projects with a focus on performance, Golang is a great option.
