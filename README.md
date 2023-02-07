@@ -1477,4 +1477,4 @@ Now for how to write the godoc compatible code plz check [this link](https://ath
 - [Go Doc](https://go.dev/blog/godoc)
 - [Go Doc Tricks](https://pkg.go.dev/github.com/fluhus/godoc-tricks)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=atharvaskadam&label=atharvaskadam/go&labelColor=%23ffa500&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=atharvaskadam)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=atharvaskadam&label=atharvaskadam&labelColor=%23ffa500&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=atharvaskadam)
