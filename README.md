@@ -10,7 +10,7 @@
   - [Prerequisites To Learn Golang](#prerequisites-to-learn-golang)
   - [Why Golang Is Faster Than Others](#why-golang-is-faster-than-others)
 
-## Some Point to Keep In Mind
+## Some Point's to Keep In Mind
 
 - Always check the branch you are working on
 - Also always make sure that your branch is up to date with your parent branch i.e to take latest pull of both child and parent branch and then run command `git merge parent-branch`
