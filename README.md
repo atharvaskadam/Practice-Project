@@ -9,7 +9,11 @@
   - [Why Is Go A Top Programming Language](#why-is-go-a-top-programming-language)
   - [Prerequisites To Learn Golang](#prerequisites-to-learn-golang)
 
+<<<<<<< HEAD
+## Some Point to Keep In Mind
+=======
 ## Some Point's to Keep In Mind
+>>>>>>> main
 
 - Always check the branch you are working on
 - Also always make sure that your branch is up to date with your parent branch i.e to take latest pull of both child and parent branch and then run command `git merge parent-branch`
