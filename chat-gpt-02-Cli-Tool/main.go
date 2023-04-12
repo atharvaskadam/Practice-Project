@@ -12,6 +12,10 @@ import (
 	"github.com/spf13/viper"
 )
 
+const (
+	TOEKN_EXHAUSTED_EXIT_ERROR_CODE = 13
+)
+
 func GetResponse(client gpt3.Client, ctx context.Context, quesiton string) {
 	err := client.CompletionStreamWithEngine(ctx, gpt3.TextDavinci003Engine, gpt3.CompletionRequest{
 		Prompt: []string{
@@ -24,7 +28,7 @@ func GetResponse(client gpt3.Client, ctx context.Context, quesiton string) {
 	})
 	if err != nil {
 		fmt.Println(err)
-		os.Exit(13)
+		os.Exit(TOEKN_EXHAUSTED_EXIT_ERROR_CODE)
 	}
 	fmt.Printf("\n")
 }

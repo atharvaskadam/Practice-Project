@@ -1,4 +1,4 @@
-module github.com/atharva/chat-gpt-02
+module github.com/atharvaskadam/chat-gpt-02
 
 go 1.20
 
