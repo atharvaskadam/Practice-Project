@@ -1,4 +1,4 @@
-# Go Project's
+# Go Project
 
 - [Go Projects](#go-projects)
   - [Some Points to Keep In Mind](#some-points-to-keep-in-mind)
